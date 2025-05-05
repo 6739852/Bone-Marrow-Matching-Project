@@ -39,6 +39,6 @@ This project aims to optimize and improve the critical process of matching bone 
 
 ---
 
-## 📘 Additional Information | מידע נוסף
+## 📘 Additional Information 
 🔹 This project was successfully completed as a final project in the Computer Science track of the Israeli Ministry of Education.
 🔹 The project received a final grade of 100.
