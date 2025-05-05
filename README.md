@@ -1,4 +1,4 @@
-# 🧬 Bone Marrow Matching Project
+#Bone Marrow Matching Project
 
 ---
 
