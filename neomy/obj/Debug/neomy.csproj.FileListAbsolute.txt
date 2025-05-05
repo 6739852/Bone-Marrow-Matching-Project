@@ -1,0 +1,389 @@
+F:\פרויקט\neomy\neomy\bin\Debug\neomy.exe.config
+F:\פרויקט\neomy\neomy\bin\Debug\neomy.exe
+F:\פרויקט\neomy\neomy\bin\Debug\neomy.pdb
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.Form1.resources
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.UserControl2.resources
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.exe
+F:\פרויקט\neomy\neomy\obj\Debug\neomy.pdb
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.exe
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.pdb
+E:\פרויקט\neomy\neomy\bin\Debug\Data\data.accdb
+E:\פרויקט\neomy\neomy\bin\Debug\neomy.exe.config
+E:\פרויקט\neomy\neomy\bin\Debug\neomy.exe
+E:\פרויקט\neomy\neomy\bin\Debug\neomy.pdb
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.Form2.resources
+I:\פרויקט\neomy\neomy\bin\Debug\Data\data.accdb
+I:\פרויקט\neomy\neomy\bin\Debug\neomy.exe.config
+I:\פרויקט\neomy\neomy\bin\Debug\neomy.exe
+I:\פרויקט\neomy\neomy\bin\Debug\neomy.pdb
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.Form1.resources
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.Form2.resources
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.UserControlSick.resources
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.exe
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.pdb
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.Form3.resources
+I:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.UserControl3.resources
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.Form3.resources
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.UserControl3.resources
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+E:\פרויקט\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\bin\Debug\Data\data.accdb
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\bin\Debug\neomy.exe.config
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\bin\Debug\neomy.exe
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\bin\Debug\neomy.pdb
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.Form2.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.Form3.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.exe
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.pdb
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.UserControSearchSick.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.UserControlRequest.resources
+T:\מדעי המחשב יב\מילר תהילה\neomy\neomy\obj\Debug\neomy.GUI.UserControlResualts.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+E:\neomy\neomy\obj\Debug\neomy.Form2.resources
+E:\neomy\neomy\obj\Debug\neomy.Form3.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+E:\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+E:\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+E:\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+E:\neomy\neomy\obj\Debug\neomy.exe
+E:\neomy\neomy\obj\Debug\neomy.pdb
+F:\neomy\neomy\bin\Debug\Data\data.accdb
+F:\neomy\neomy\bin\Debug\neomy.exe.config
+F:\neomy\neomy\bin\Debug\neomy.exe
+F:\neomy\neomy\bin\Debug\neomy.pdb
+F:\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+F:\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+F:\neomy\neomy\obj\Debug\neomy.Form2.resources
+F:\neomy\neomy\obj\Debug\neomy.Form3.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+F:\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+F:\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+F:\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+F:\neomy\neomy\obj\Debug\neomy.exe
+F:\neomy\neomy\obj\Debug\neomy.pdb
+D:\neomy\neomy\bin\Debug\Data\data.accdb
+D:\neomy\neomy\bin\Debug\neomy.exe.config
+D:\neomy\neomy\bin\Debug\neomy.exe
+D:\neomy\neomy\bin\Debug\neomy.pdb
+D:\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+D:\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+D:\neomy\neomy\obj\Debug\neomy.Form3.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+D:\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+D:\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+D:\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+D:\neomy\neomy\obj\Debug\neomy.exe
+D:\neomy\neomy\obj\Debug\neomy.pdb
+E:\neomy\neomy\bin\Debug\Data\data.accdb
+E:\neomy\neomy\bin\Debug\neomy.exe.config
+E:\neomy\neomy\bin\Debug\neomy.exe
+E:\neomy\neomy\bin\Debug\neomy.pdb
+E:\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+F:\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenim.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+F:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.pdb
+C:\Users\ילדים\Desktop\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\ילדים\Desktop\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\ילדים\Desktop\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\ילדים\Desktop\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\ילדים\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenimSick.resources
+C:\Users\student\Desktop\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\student\Desktop\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\student\Desktop\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\student\Desktop\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.pdb
+C:\Users\student\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\bin\Debug\Data\data.accdb
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\bin\Debug\neomy.exe.config
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\bin\Debug\neomy.exe
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\bin\Debug\neomy.pdb
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.Form2.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.Form3.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.exe
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.pdb
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+T:\מדעי המחשב יב\אוירבך נעמי\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.pdb
+C:\Users\נעמי\Desktop\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\נעמי\Desktop\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\נעמי\Desktop\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\נעמי\Desktop\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\user1\Desktop\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\user1\Desktop\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\user1\Desktop\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\user1\Desktop\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\user1\Desktop\neomy\neomy\obj\Debug\neomy.pdb
+D:\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+D:\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+D:\neomy\neomy\obj\Debug\neomy.Form2.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+D:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\נעמי\Desktop\חברות נעמי\neomy\neomy\obj\Debug\neomy.pdb
+E:\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+E:\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+E:\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+C:\Users\נעמי\Downloads\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\נעמי\Downloads\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\נעמי\Downloads\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\נעמי\Downloads\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\נעמי\Downloads\neomy\neomy\obj\Debug\neomy.pdb
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+C:\Users\נעמי\Desktop\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\bin\Debug\Data\data.accdb
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\bin\Debug\neomy.exe.config
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\bin\Debug\neomy.exe
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\bin\Debug\neomy.pdb
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.Form2.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.Form3.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.exe
+C:\Users\נעמי\Desktop\פרויקט סופי\neomy\neomy\obj\Debug\neomy.pdb
+D:\פרויקט סופי\neomy\neomy\bin\Debug\Data\data.accdb
+D:\פרויקט סופי\neomy\neomy\bin\Debug\neomy.exe.config
+D:\פרויקט סופי\neomy\neomy\bin\Debug\neomy.exe
+D:\פרויקט סופי\neomy\neomy\bin\Debug\neomy.pdb
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.AssemblyReference.cache
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.ResolveComReference.cache
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.Form1.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.Form2.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.Form3.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.Form4.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.Form5.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddDonate.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAddSick.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenDonor.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlAntigenSick.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlPossible_donors.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearch3.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchDonatecs.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlSearchSick.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich1.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich2.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich3.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.GUI.UserControlTahalich4.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.Properties.Resources.resources
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.GenerateResource.cache
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.csproj.CoreCompileInputs.cache
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.exe
+D:\פרויקט סופי\neomy\neomy\obj\Debug\neomy.pdb

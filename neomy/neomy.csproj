@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E99954D-B558-4E8B-A909-3D5E498588D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>neomy</RootNamespace>
+    <AssemblyName>neomy</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bll\Antigen_Donor.cs" />
+    <Compile Include="Bll\Antigen_DonorDB.cs" />
+    <Compile Include="Bll\Antigen_Sick.cs" />
+    <Compile Include="Bll\Antigen_SickDB.cs" />
+    <Compile Include="Bll\Cities.cs" />
+    <Compile Include="Bll\CitiesDB.cs" />
+    <Compile Include="Bll\Donor.cs" />
+    <Compile Include="Bll\DonorDB.cs" />
+    <Compile Include="Bll\Hospital.cs" />
+    <Compile Include="Bll\HospitalDB.cs" />
+    <Compile Include="Bll\Possible_donors.cs" />
+    <Compile Include="Bll\Possible_donorsDB.cs" />
+    <Compile Include="Bll\Donations_madeDB.cs" />
+    <Compile Include="Bll\Donations_made.cs" />
+    <Compile Include="Bll\Sick.cs" />
+    <Compile Include="Bll\SickDB.cs" />
+    <Compile Include="Data\Dal.cs" />
+    <Compile Include="GUI\Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlAntigenDonor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlAntigenDonor.Designer.cs">
+      <DependentUpon>UserControlAntigenDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlAntigenSick.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlAntigenSick.Designer.cs">
+      <DependentUpon>UserControlAntigenSick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlAddSick.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlAddSick.Designer.cs">
+      <DependentUpon>UserControlAddSick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlAddDonate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlAddDonate.Designer.cs">
+      <DependentUpon>UserControlAddDonate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich1.Designer.cs">
+      <DependentUpon>UserControlTahalich1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlPossible_donors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlPossible_donors.Designer.cs">
+      <DependentUpon>UserControlPossible_donors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlSearch3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlSearch3.Designer.cs">
+      <DependentUpon>UserControlSearch3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlSearchDonatecs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlSearchDonatecs.Designer.cs">
+      <DependentUpon>UserControlSearchDonatecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlSearchSick.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlSearchSick.Designer.cs">
+      <DependentUpon>UserControlSearchSick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich2.Designer.cs">
+      <DependentUpon>UserControlTahalich2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich3.Designer.cs">
+      <DependentUpon>UserControlTahalich3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControlTahalich4.Designer.cs">
+      <DependentUpon>UserControlTahalich4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\GeneralDB.cs" />
+    <Compile Include="Validation.cs" />
+    <EmbeddedResource Include="GUI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlAddDonate.resx">
+      <DependentUpon>UserControlAddDonate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlAddSick.resx">
+      <DependentUpon>UserControlAddSick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlAntigenDonor.resx">
+      <DependentUpon>UserControlAntigenDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlAntigenSick.resx">
+      <DependentUpon>UserControlAntigenSick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlPossible_donors.resx">
+      <DependentUpon>UserControlPossible_donors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlSearch3.resx">
+      <DependentUpon>UserControlSearch3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlSearchDonatecs.resx">
+      <DependentUpon>UserControlSearchDonatecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlSearchSick.resx">
+      <DependentUpon>UserControlSearchSick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlTahalich1.resx">
+      <DependentUpon>UserControlTahalich1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlTahalich2.resx">
+      <DependentUpon>UserControlTahalich2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlTahalich3.resx">
+      <DependentUpon>UserControlTahalich3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControlTahalich4.resx">
+      <DependentUpon>UserControlTahalich4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\data.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Photos\2.png" />
+    <Content Include="Resources\אלחנן עם פרבר פשגיא.JPG" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,744 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolpossible_donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolpossible_donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\sick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\sick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\sickdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\sickdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\antigen_donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\antigen_donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\antigen_donordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\antigen_donordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolsearchsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolsearchsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroltahalich1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroltahalich1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolpossible_donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolpossible_donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolsearchsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolsearchsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolsearchdonatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolsearchdonatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolsearchdonatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolsearchdonatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolantigensick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolantigensick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolantigensick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolantigensick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolantigendonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolantigendonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroladdsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroladdsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroladdsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroladdsick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\donations_madedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\donations_madedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\donordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\donordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\donations_made.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\donations_made.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroladddonate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroladddonate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolantigendonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolantigendonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\possible_donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\possible_donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\antigen_sickdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\antigen_sickdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\bll\\antigen_sick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\bll\\antigen_sick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolsearch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolsearch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontrolsearch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontrolsearch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\gui\\usercontroladddonate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99954D-B558-4E8B-A909-3D5E498588D5}|neomy\\neomy.csproj|solutionrelative:neomy\\gui\\usercontroladddonate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form5.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form5.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlPossible_donors.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlPossible_donors.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlPossible_donors.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlPossible_donors.cs [Design]",
+              "RelativeToolTip": "neomy\\GUI\\UserControlPossible_donors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlTahalich1.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich1.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich1.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form4.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form4.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form3.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form3.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form2.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form2.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form1.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sick.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Sick.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Sick.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Sick.cs",
+              "RelativeToolTip": "neomy\\Bll\\Sick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SickDB.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\SickDB.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\SickDB.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\SickDB.cs",
+              "RelativeToolTip": "neomy\\Bll\\SickDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Hospital.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Hospital.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Hospital.cs",
+              "RelativeToolTip": "neomy\\Bll\\Hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControlTahalich4.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich4.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich4.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich4.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlTahalich4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Antigen_DonorDB.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_DonorDB.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Antigen_DonorDB.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_DonorDB.cs",
+              "RelativeToolTip": "neomy\\Bll\\Antigen_DonorDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlTahalich2.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich2.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich2.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Antigen_Donor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_Donor.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Antigen_Donor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_Donor.cs",
+              "RelativeToolTip": "neomy\\Bll\\Antigen_Donor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlTahalich3.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich3.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich3.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich3.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlTahalich3.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form4.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form4.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form4.cs",
+              "RelativeToolTip": "neomy\\GUI\\Form4.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlTahalich2.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich2.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich2.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich2.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlTahalich2.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControlTahalich3.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich3.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich3.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserControlTahalich4.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich4.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich4.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControlSearchSick.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchSick.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlSearchSick.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchSick.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserControlTahalich1.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich1.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlTahalich1.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlTahalich1.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlTahalich1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserControlPossible_donors.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlPossible_donors.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlPossible_donors.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlPossible_donors.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlPossible_donors.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAJwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserControlSearchSick.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchSick.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlSearchSick.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchSick.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlSearchSick.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserControlSearchDonatecs.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchDonatecs.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlSearchDonatecs.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchDonatecs.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlSearchDonatecs.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwB0AAADpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserControlSearchDonatecs.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchDonatecs.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlSearchDonatecs.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearchDonatecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form2.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form2.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form2.cs",
+              "RelativeToolTip": "neomy\\GUI\\Form2.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserControlAntigenSick.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenSick.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAntigenSick.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenSick.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlAntigenSick.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAewDsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserControlAntigenSick.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenSick.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAntigenSick.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenSick.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserControlAntigenDonor.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenDonor.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAntigenDonor.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenDonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserControlAddSick.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddSick.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAddSick.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddSick.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlAddSick.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAvwDYBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserControlAddSick.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddSick.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAddSick.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddSick.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form1.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form1.cs",
+              "RelativeToolTip": "neomy\\GUI\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAKIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Validation.cs",
+              "RelativeDocumentMoniker": "neomy\\Validation.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Validation.cs",
+              "RelativeToolTip": "neomy\\Validation.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Donations_madeDB.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Donations_madeDB.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Donations_madeDB.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Donations_madeDB.cs",
+              "RelativeToolTip": "neomy\\Bll\\Donations_madeDB.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DonorDB.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\DonorDB.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\DonorDB.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\DonorDB.cs",
+              "RelativeToolTip": "neomy\\Bll\\DonorDB.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Donations_made.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Donations_made.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Donations_made.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Donations_made.cs",
+              "RelativeToolTip": "neomy\\Bll\\Donations_made.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Donor.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Donor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Donor.cs",
+              "RelativeToolTip": "neomy\\Bll\\Donor.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAI8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserControlAddDonate.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddDonate.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAddDonate.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddDonate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Program.cs",
+              "RelativeDocumentMoniker": "neomy\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Program.cs",
+              "RelativeToolTip": "neomy\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form5.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\Form5.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\Form5.cs",
+              "RelativeToolTip": "neomy\\GUI\\Form5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-05T13:24:41.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserControlAntigenDonor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenDonor.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAntigenDonor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAntigenDonor.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlAntigenDonor.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAvwEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Possible_donors.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Possible_donors.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Possible_donors.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Possible_donors.cs",
+              "RelativeToolTip": "neomy\\Bll\\Possible_donors.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Antigen_SickDB.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_SickDB.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Antigen_SickDB.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_SickDB.cs",
+              "RelativeToolTip": "neomy\\Bll\\Antigen_SickDB.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Antigen_Sick.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_Sick.cs",
+              "RelativeDocumentMoniker": "neomy\\Bll\\Antigen_Sick.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\Bll\\Antigen_Sick.cs",
+              "RelativeToolTip": "neomy\\Bll\\Antigen_Sick.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserControlSearch3.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearch3.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlSearch3.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearch3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserControlSearch3.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearch3.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlSearch3.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlSearch3.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlSearch3.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserControlAddDonate.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddDonate.cs",
+              "RelativeDocumentMoniker": "neomy\\GUI\\UserControlAddDonate.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\neomy\\neomy\\GUI\\UserControlAddDonate.cs",
+              "RelativeToolTip": "neomy\\GUI\\UserControlAddDonate.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-05T13:24:41.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

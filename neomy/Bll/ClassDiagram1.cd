@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="neomy.Bll.Antigen_Donor">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAEAAGAJAQAIAgEAAAsUAAFJEAAJAAAAAAEFAAAAA=</HashCode>
+      <FileName>Bll\Antigen_Donor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Antigen_DonorDB">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAAAAABAAAAAgEAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\Antigen_DonorDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Antigen_Sick">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQgEAAGABARAIAgAAAAsUAAEJEAAJAAAAIAEFACAAA=</HashCode>
+      <FileName>Bll\Antigen_Sick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Antigen_SickDB">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAAAAABAAAAAgEAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\Antigen_SickDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Cities">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAQEAAAEAAEAEAABABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bll\Cities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.CitiesDB">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAABAAAACgAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\CitiesDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Donations_madeDB">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAAAAABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\Donations_madeDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Donations_made">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAACAAAQAAAAEAAAAAAEAAQABBAEAAIAAABCAAA=</HashCode>
+      <FileName>Bll\Donations_made.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Donor">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAACGAAAAgQAIBwEACAEAECAAABAgABBAAAAQQAA=</HashCode>
+      <FileName>Bll\Donor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.DonorDB">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAABAAAAAgEAAAAAAAAAAAI=</HashCode>
+      <FileName>Bll\DonorDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Hospital">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAEAAABAAEAEQABABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bll\Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Possible_donors">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAGAQAQAAEAEAAAAAAAECAAABAgAAIAAAACAAA=</HashCode>
+      <FileName>Bll\Possible_donors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="neomy.Bll.Sick">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQgAACGAAAAgQAIAQEACAEAECAAABAgABBACIAQQAA=</HashCode>
+      <FileName>Bll\Sick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
